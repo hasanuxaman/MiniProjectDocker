@@ -1,0 +1,6 @@
+@MiniProjectDocker_HostAddress = http://localhost:5064
+
+GET {{MiniProjectDocker_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
